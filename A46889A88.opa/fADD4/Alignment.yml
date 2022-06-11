@@ -1,0 +1,26 @@
+segment_sources:
+  I1F9D7B77:
+    type: origin_type
+    relation: translation
+    language: en
+  I32F33863:
+    type: origin_type
+    relation: translation
+    language: fr
+  I866B40D4:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1a3a0e6873f1431eb467d77322891f6a:
+    I1F9D7B77: aaf02112c0ee409d97b240fb066a08b4
+    I32F33863: ba58602d3cd3451ea0c4ae7438ab2f9f
+    I866B40D4: 83f8c7849812492cb9dcfb0e7a2ea9b2
+  ebf51dcc16924b20b33ad394773e2d9b:
+    I1F9D7B77: 8930952d823a43b7b8e3cd6888113780
+    I32F33863: dc447f15ce03456c84b77a7e8cf72b40
+    I866B40D4: 42436ddde3e941f898350c04b5193aaf
+  33dc8975921d4beda96f49ca36666c03:
+    I1F9D7B77: 21f0327071b04be2a753b5364ba7a34d
+    I32F33863: c0153305d9424f01b479d5f8704ce5d6
+    I866B40D4: a1ecd6b4a943463084d85aff7134194f
